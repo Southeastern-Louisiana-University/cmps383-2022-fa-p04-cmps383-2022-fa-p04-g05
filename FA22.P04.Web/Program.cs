@@ -1,6 +1,7 @@
 using FA22.P04.Web.Data;
 using Microsoft.EntityFrameworkCore;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // sets up our database connection
